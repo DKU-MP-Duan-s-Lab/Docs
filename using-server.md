@@ -1,4 +1,4 @@
-# First Time Using the Server
+# Using the Server
 
 ## SSH Connection
 Please refer to: [https://dku-mp-zhang-group.github.io/docs/#/./server%20users/firsttime/ssh_example](https://dku-mp-zhang-group.github.io/docs/#/./server%20users/firsttime/ssh_example)

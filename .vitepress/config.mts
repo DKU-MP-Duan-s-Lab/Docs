@@ -9,7 +9,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      // { text: 'First Time Using the Server', link: '/fitst-time-using-server' }
     ],
 
     sidebar: [
@@ -22,8 +21,8 @@ export default defineConfig({
         // ]
       },
       {
-        text: 'First Time Using the Server',
-        link: '/fitst-time-using-server'
+        text: 'Using the Server',
+        link: '/using-server'
         // items: [
         //   { text: 'Markdown Examples', link: '/markdown-examples' },
         //   { text: 'Runtime API Examples', link: '/api-examples' }
@@ -32,7 +31,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/DKU-MP-Duan-s-Lab' }
     ]
   }
 })
