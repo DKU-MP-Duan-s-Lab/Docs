@@ -14,6 +14,14 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Administer Cmds',
+        link: '/administer-cmds'
+        // items: [
+        //   { text: 'Markdown Examples', link: '/markdown-examples' },
+        //   { text: 'Runtime API Examples', link: '/api-examples' }
+        // ]
+      },
+      {
         text: 'First Time Using the Server',
         link: '/fitst-time-using-server'
         // items: [
